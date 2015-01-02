@@ -18,6 +18,8 @@ __TODO:__ (no particular order)
    * Have them fade out immediately.
  * Double controls (min and max)
    * Make the controls boolean.
+   * Switch between min & max by clicking the image.
+     * And therefore re-implementing chrome's tools already.
  * Create settings page.
  * Use response Content-Type header to determine if it's an image.
    * Remove injection
