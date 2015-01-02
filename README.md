@@ -5,11 +5,18 @@ Upgrade Google Chrome's poor image display.
 
     Currently very much a WIP.
 
-__TODO:__
+__TODO:__ (no particular order)
+
  * Test lots to improve this list.
  * Center image vertically.
  * Add custom scale entry.
+   * Support click and drag.
+   * Single click to enter value
  * Add size transitions.
+ * Improve the boundry.
+ * Double controls (min and max)
+   * Make the controls boolean.
+ * Create settings page.
  
 __CONTRIBUTING:__
 
