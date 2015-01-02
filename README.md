@@ -14,6 +14,8 @@ __TODO:__ (no particular order)
    * Single click to enter value
  * Add size transitions.
  * Improve the boundry.
+ * Show controls by default.
+   * Have them fade out immediately.
  * Double controls (min and max)
    * Make the controls boolean.
  * Create settings page.
