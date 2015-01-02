@@ -20,7 +20,9 @@ __TODO:__ (no particular order)
  
 __CONTRIBUTING:__
 
-If you're interesting in helping out, just fork and post pull requests. If you can't be bothered to code just put up a ticket, and take a look.
+Nothing special. If you're interesting in helping out, just fork and post pull requests. If you can't be bothered to code open a ticket, and take I'll take a look at some point.
+
+If you change something explain your reasons.
 
 __INSTALLATION:__
 
