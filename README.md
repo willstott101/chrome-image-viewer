@@ -17,6 +17,9 @@ __TODO:__ (no particular order)
  * Double controls (min and max)
    * Make the controls boolean.
  * Create settings page.
+ * Use response Content-Type header to determine if it's an image.
+   * Remove injection
+   * Support all image formats
  
 __CONTRIBUTING:__
 
